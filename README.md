@@ -1,2 +1,2 @@
 # test1
-# to get first git hib repo and token
+# to get first git hub repo and token
